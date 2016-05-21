@@ -8,5 +8,7 @@ node_js:
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
 notifications:
-  irc: "irc.freenode.org#travis"
+  email:
+    - i@think-diff.me
+    - zhoujiealex@gmail.com
 
